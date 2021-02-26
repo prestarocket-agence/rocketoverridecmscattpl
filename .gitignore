@@ -1,0 +1,7 @@
+config*.xml
+/logs/*
+!/logs/index.php
+*.DS_Store
+/_dev/node_modules/*
+/node_modules/*
+/vendor/
