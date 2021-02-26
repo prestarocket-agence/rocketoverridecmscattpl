@@ -20,7 +20,4 @@ With the CMS category page, the module will check the following locations (in or
 - ``themes/*/templates/cms/category.tpl``
 
 ## License
-
-This module is licenced under the Software License Agreement.
-With the purchase or the installation of the software in your application you accept the licence agreement.
-You must not modify, adapt or create derivative works of this source code.
+AFL 3.0
